@@ -83,7 +83,7 @@ The Random Forest Classifier model was chosen for the hyperparameters tuning, be
 After tuning  hyperparameters using Randomized Search CV the model performance has improved (results for the same set of **training/validation data**):
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performane_train.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performance_train.png" width="600px">
 </div>
 </br>
 
@@ -99,14 +99,14 @@ We can observe that the model continues to present good results for the test dat
 **Test Dataset**
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performane_test.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performance_test.png" width="600px">
 </div>
 </br>
 
 Confusion Matrix results:
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rfc_test.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rcf_test.png" width="600px">
 </div>
 </br>
 
@@ -114,14 +114,14 @@ Confusion Matrix results:
 **100 % Dataset**
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performane_dataset.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/rfc_performance_dataset.png" width="600px">
 </div>
 </br>
 
 Confusion Matrix results:
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rfc_dataset.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rcf_dataset.png" width="600px">
 </div>
 </br>
 
