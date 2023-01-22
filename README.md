@@ -50,8 +50,8 @@ The strategy adopted was the following:
 - All the transactions flagged as fraud are indeed fraud
 - The type of transactions are divided as follows:
 
-<div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/transaction_type.jpg" width="600px">
+<div align="left">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/transaction_type.jpg" width="300px">
 </div>
 </br>
 
