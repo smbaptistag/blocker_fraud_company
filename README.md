@@ -90,7 +90,7 @@ After tuning  hyperparameters using Randomized Search CV the model performance h
 Confusion Matrix results:
 
 <div align="center">
-<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rfc_train.png" width="600px">
+<img src="https://github.com/smbaptistag/blocker_fraud_company/blob/main/images/cm_rcf_train.png" width="600px">
 </div>
 </br>
 
